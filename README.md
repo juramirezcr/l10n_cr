@@ -1,5 +1,3 @@
-[![Build Status](https://github.com/juramirezrcr/l10n_cr.svg?branch=15.0)](https://www.facturaodoocr.com/)
-
 Facturación electrónica Costa Rica módulo para odoo
 Copyright (C) 2023  FacturaOdooCR.com
 
